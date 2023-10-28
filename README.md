@@ -1,4 +1,6 @@
 # Ukraine Twitter invasion data
+In this repository, I have analyzed tweets from the first month of the Russian invasion into Ukraine in February and March 2022. The goal is to identify trends and conduct sentiment analysis on these tweets to gain valuable insights.
+
 * [Link to data in google drive](https://drive.google.com/file/d/1jXWWuWduixXs13FxdICZNRqRTuLNcQo2/view?usp=drive_link)
 * [Demo YouTube link](https://www.youtube.com/watch?v=cE-ye3fwMPU)
 
